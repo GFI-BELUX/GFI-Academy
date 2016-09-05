@@ -1,0 +1,42 @@
+header, footer, nav, section, article, aside {
+	display: block;
+	padding: 6px 9px;
+}
+header, footer, nav {
+	width: 100%;
+	background: #ddd;
+}
+nav {
+	height: 50px;
+	background: orange;
+}
+nav ul {
+	clear: both;
+	margin: 3px;
+	padding: 6px;
+}
+nav ul li {
+	display: block;
+	float: left;
+	padding: 2px;
+	margin: 3px;
+}
+nav ul li a {
+	font-weight: bold;
+	color: #fff;
+}
+section {
+	width: 60%;
+	height: 300px;
+	display: inline-block;
+	margin-right: 5%;
+	vertical-align: top;
+}
+aside {
+	width: 30%;
+	height: 300px;
+	display: inline-block;
+}
+aside img {
+	width: 100%;
+}
