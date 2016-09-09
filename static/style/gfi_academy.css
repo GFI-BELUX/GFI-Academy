@@ -48,3 +48,13 @@ form input {
 	margin: 24px 0;
 	display: block;
 }
+
+.responsive div[class^="col-"] {
+    border: 1px solid orange;
+    height: 60px;
+}
+.responsive h2 {
+    border-top: 1px solid #333;
+    padding-top: 30px;
+    margin-bottom: 10px;
+}
