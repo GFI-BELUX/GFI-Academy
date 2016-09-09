@@ -1,1 +1,3 @@
 bin
+webapp/bower_components/
+webapp/node_modules/

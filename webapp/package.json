@@ -1,0 +1,27 @@
+{
+  "name": "webapp",
+  "version": "0.0.0",
+  "dependencies": {},
+  "description": "GFI Academy webapp",
+  "main": "Gruntfile.js",
+  "devDependencies": {
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GFI-BELUX/GFI-Academy.git"
+  },
+  "keywords": [
+    "GFI",
+    "Academy"
+  ],
+  "author": "kim.ghesquiere@gfi.be",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GFI-BELUX/GFI-Academy/issues"
+  },
+  "homepage": "https://github.com/GFI-BELUX/GFI-Academy#readme"
+}
