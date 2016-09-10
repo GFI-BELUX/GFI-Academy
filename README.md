@@ -1,11 +1,14 @@
 # GFI-Academy
-examples and exercises
+
+## Examples and Exercises
+see "/static" folder.
 
 ## Node & express
 ### Prerequisites:
 1. Nodejs + Npm
 2. Git + git extensions or similar
 3. Ruby (rubyinstaller)
+4. Good editor, e.g. brackets, atom, sublimetext, notepad++
 
 ### Setup:
 1. > gem update –system
