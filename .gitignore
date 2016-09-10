@@ -1,3 +1,4 @@
 bin
-webapp/bower_components/
-webapp/node_modules/
+bower_components/
+node_modules/
+.sass-cache

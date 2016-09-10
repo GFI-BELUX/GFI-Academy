@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+	<div id="output"></div>
+	<button onclick="startWorker()">Start Worker</button>
+	<button onclick="stopWorker()">Stop Worker</button>
+	<br>
+	<br>
+
+	<script>
+		var w, counter;
+
+		function startWorker() {
+			var container = document.getElementById('output');
+			if (typeof (Worker) !== 'undefined') {
+			//	if (typeof (w) == 'undefined') {
+					w = new Worker('script/worker.js');
+			//	}
+				w.onmessage = function (event) {
+					if (counter) {
+						counter.innerHTML = event.data;
+					} else {
+						counter = document.createElement('div')
+						counter.innerHTML = event.data;
+						container.appendChild(counter);
+					}
+				};
+			} else {
+				var error = document.createElement('div')
+				error.innerHTML = "Sorry! No Web Worker support.";
+				container.appendChild(error);
+			}
+		}
+
+		function stopWorker() {
+			w.terminate();
+			w = undefined;
+		}
+	</script>
+
+</body>
+
+</html>
