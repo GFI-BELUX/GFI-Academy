@@ -1,0 +1,2241 @@
+{
+    "_id": "toyota-de-de-minicarconfig-ag",
+    "code": "ag",
+    "name": "AYGO",
+    "modelId": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+    "ccVersion": "6.HD+INTERIOR GALLERY",
+    "links": {
+        "CarChapter": "http://www.toyota.de/automobile/aygo",
+        "PromoPage": "http://www.toyota.de/cars/new_cars/aygo/promos.tmex"
+    },
+    "bodyType": [{
+        "name": "3-Türer",
+        "engine": [{
+            "name": "1,0-l-VVT-i 51kW (69PS)",
+            "transmission": [{
+                "name": "5-Gang Schaltgetriebe",
+                "wheelDrives": [{
+                    "name": "4X2",
+                    "grades": [{
+                        "gradeName": "x",
+                        "carName": "AYGO 3-Türer 5-Gang x",
+                        "carId": "d40e7c7a-7e15-48e7-a219-ec7281bf39b9",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 9950,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 9950,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "d40e7c7a-7e15-48e7-a219-ec7281bf39b9",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "214de403-424f-466d-bfb0-65a489e097ca",
+                            "TotalPrice": 9950
+                        }
+                    }, {
+                        "gradeName": "x-play",
+                        "carName": "AYGO 3-Türer 5-Gang x-play ",
+                        "carId": "254bafef-0899-4b3d-9573-b953d018731a",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 11625,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 11625,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "254bafef-0899-4b3d-9573-b953d018731a",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 11625
+                        }
+                    }, {
+                        "gradeName": "x-play touch",
+                        "carName": "AYGO 3-Türer 5-Gang x-play touch",
+                        "carId": "f38ede0b-9c06-40a4-97ca-d1fec81ef8f4",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 12100,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 12100,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "f38ede0b-9c06-40a4-97ca-d1fec81ef8f4",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 12100
+                        }
+                    }, {
+                        "gradeName": "x-play Edition S+",
+                        "carName": "AYGO 3-Türer 5-Gang x-play Edition S+",
+                        "carId": "0130a80d-a149-4e81-9f59-6148acaaa51d",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 12450,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 12450,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "0130a80d-a149-4e81-9f59-6148acaaa51d",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 12450
+                        }
+                    }, {
+                        "gradeName": "x-cite Style Selection",
+                        "carName": "Aygo 3-Türer 1,0 6-Gang x-cite Style Selection",
+                        "carId": "0d32f10a-88a3-4167-9dc8-f08bbf399b99",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 12800,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 12800,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "0d32f10a-88a3-4167-9dc8-f08bbf399b99",
+                            "ExteriorColourID": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "UpholsteryID": "476ce6ad-a5a9-4cf1-b78c-17cfa9b31cf9",
+                            "TotalPrice": 12800
+                        }
+                    }, {
+                        "gradeName": "x-wave",
+                        "carName": "Aygo 3-Türer 1,0 6-Gang x-wave 4",
+                        "carId": "7b3cea4f-d126-4dfa-b296-e86e264dfc6f",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 13990,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 13990,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "7b3cea4f-d126-4dfa-b296-e86e264dfc6f",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "9bcc3887-e74c-4cf1-8950-3726efb93fe3",
+                            "TotalPrice": 13990
+                        }
+                    }]
+                }]
+            }, {
+                "name": "5-Gang x-shift-Getriebe",
+                "wheelDrives": [{
+                    "name": "4X2",
+                    "grades": [{
+                        "gradeName": "x-play",
+                        "carName": "AYGO 3-Türer 5-Gang x-shift-Getriebe x-play",
+                        "carId": "1c24af4c-808d-415e-8b6f-4670435061aa",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 12225,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 12225,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.2,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.8
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 97,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "1c24af4c-808d-415e-8b6f-4670435061aa",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 12225
+                        }
+                    }, {
+                        "gradeName": "x-play touch",
+                        "carName": "AYGO 3-Türer 5-Gang x-shift-Getriebe x-play touch",
+                        "carId": "654867f2-a71c-4e7d-91f6-9213d8a7f12b",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 12700,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 12700,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.2,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.8
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 97,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "654867f2-a71c-4e7d-91f6-9213d8a7f12b",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 12700
+                        }
+                    }, {
+                        "gradeName": "x-play Edition S+",
+                        "carName": "AYGO 3-Türer Multimode x-shift-Getriebe x-play Edition S+",
+                        "carId": "30257de2-b453-40bb-8532-08182a9624cb",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 13050,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 13050,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.2,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.8
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 97,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "30257de2-b453-40bb-8532-08182a9624cb",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 13050
+                        }
+                    }, {
+                        "gradeName": "x-wave",
+                        "carName": "Aygo 3-Türer 1,0 x-shift x-wave 4",
+                        "carId": "eb5a5e1e-266b-4da1-ab6e-ba5ae9d74182",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 14590,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 14590,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.2,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.8
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 97,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "eb5a5e1e-266b-4da1-ab6e-ba5ae9d74182",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "9bcc3887-e74c-4cf1-8950-3726efb93fe3",
+                            "TotalPrice": 14590
+                        }
+                    }]
+                }]
+            }]
+        }]
+    }, {
+        "name": "5-Türer",
+        "engine": [{
+            "name": "1,0-l-VVT-i 51kW (69PS)",
+            "transmission": [{
+                "name": "5-Gang Schaltgetriebe",
+                "wheelDrives": [{
+                    "name": "4X2",
+                    "grades": [{
+                        "gradeName": "x",
+                        "carName": "AYGO 5-Türer 5-Gang x",
+                        "carId": "b9596b40-ae5e-4c00-9950-4f66d4c56639",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 10300,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 10300,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "b9596b40-ae5e-4c00-9950-4f66d4c56639",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "214de403-424f-466d-bfb0-65a489e097ca",
+                            "TotalPrice": 10300
+                        }
+                    }, {
+                        "gradeName": "x-play",
+                        "carName": "AYGO 5-Türer 5-Gang x-play",
+                        "carId": "7ac4aaf5-b9ef-4b44-86c4-fdd48d01817c",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 11975,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 11975,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "7ac4aaf5-b9ef-4b44-86c4-fdd48d01817c",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 11975
+                        }
+                    }, {
+                        "gradeName": "x-play touch",
+                        "carName": "AYGO 5-Türer 5-Gang x-play touch",
+                        "carId": "a79deec0-2605-48a4-82ea-f86d858ead97",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 12450,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 12450,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "a79deec0-2605-48a4-82ea-f86d858ead97",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 12450
+                        }
+                    }, {
+                        "gradeName": "x-play Edition S+",
+                        "carName": "AYGO 5-Türer 5-Gang x-play Edition S+",
+                        "carId": "c2e072bb-7579-4abc-a722-f2bc517740f8",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 12800,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 12800,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "c2e072bb-7579-4abc-a722-f2bc517740f8",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 12800
+                        }
+                    }, {
+                        "gradeName": "x-cite Style Selection",
+                        "carName": "Aygo 5-Türer 1,0 6-Gang x-cite Style Selection",
+                        "carId": "917d8f65-290f-4519-9c66-0d1c0015191e",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 13150,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 13150,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "917d8f65-290f-4519-9c66-0d1c0015191e",
+                            "ExteriorColourID": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "UpholsteryID": "476ce6ad-a5a9-4cf1-b78c-17cfa9b31cf9",
+                            "TotalPrice": 13150
+                        }
+                    }, {
+                        "gradeName": "x-wave",
+                        "carName": "Aygo 5-Türer 1,0 6-Gang x-wave 4",
+                        "carId": "ea22ed70-8830-4472-aa49-adc1aaa5ada2",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 14340,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 14340,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "ea22ed70-8830-4472-aa49-adc1aaa5ada2",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "9bcc3887-e74c-4cf1-8950-3726efb93fe3",
+                            "TotalPrice": 14340
+                        }
+                    }, {
+                        "gradeName": "x-pose",
+                        "carName": "Aygo 5-Türer 1,0 5-Gang x-pose",
+                        "carId": "d82f1b16-67cc-4c4c-a69d-688c8898f6da",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 14890,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 14890,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.1,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.6
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 95,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "d82f1b16-67cc-4c4c-a69d-688c8898f6da",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "9bcc3887-e74c-4cf1-8950-3726efb93fe3",
+                            "TotalPrice": 14890
+                        }
+                    }]
+                }]
+            }, {
+                "name": "5-Gang x-shift-Getriebe",
+                "wheelDrives": [{
+                    "name": "4X2",
+                    "grades": [{
+                        "gradeName": "x-play",
+                        "carName": "AYGO 5-Türer 5-Gang x-shift-Getriebe x-play",
+                        "carId": "102792b3-f0d2-4e83-9292-649bb7a1333a",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 12575,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 12575,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.2,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.8
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 97,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "102792b3-f0d2-4e83-9292-649bb7a1333a",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 12575
+                        }
+                    }, {
+                        "gradeName": "x-play touch",
+                        "carName": "AYGO 5-Türer 5-Gang x-shift-Getriebe x-play touch",
+                        "carId": "132d26b1-b27c-4018-83e8-a1cacf957f6e",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 13050,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 13050,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.2,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.8
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 97,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "132d26b1-b27c-4018-83e8-a1cacf957f6e",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 13050
+                        }
+                    }, {
+                        "gradeName": "x-play Edition S+",
+                        "carName": "AYGO 5-Türer Multimode x-shift-Getriebe x-play Edition S+",
+                        "carId": "8d8ff054-4fce-4f85-98b1-a11b6ab2b614",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 13400,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 13400,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.2,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.8
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 97,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "8d8ff054-4fce-4f85-98b1-a11b6ab2b614",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "fc04c435-8607-4db1-b9b4-f83fe98a1239",
+                            "TotalPrice": 13400
+                        }
+                    }, {
+                        "gradeName": "x-wave",
+                        "carName": "Aygo 5-Türer 1,0 x-shift x-wave 4",
+                        "carId": "b78a022e-1dbb-43b9-a520-04e8712f32b0",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 14940,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 14940,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.2,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.8
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 97,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "3p0",
+                            "name": "3P0 vulcanorot",
+                            "id": "8ca65d30-b78e-4b37-9267-f4534c8a9626",
+                            "rgb": "c9021a",
+                            "price": {
+                                "listWithDiscount": 190,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "5b9",
+                            "name": "5B9 lemonfresh gelb",
+                            "id": "535cefbc-77aa-494d-85fd-875233463de5",
+                            "rgb": "ffff5a",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e0",
+                            "name": "1E0 rauchgrau mica",
+                            "id": "800e7ea2-1445-4bf9-9065-aa7f0daa9a70",
+                            "rgb": "545559",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "211",
+                            "name": "211 midnight schwarz mica",
+                            "id": "61bb493f-148e-4a05-bae5-65912a5a609f",
+                            "rgb": "000000",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "8w9",
+                            "name": "8W9 splash-cyan metallic",
+                            "id": "ca804aaa-5f67-44d6-af4d-dda2caacf168",
+                            "rgb": "34a9ff",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }, {
+                            "code": "1e7",
+                            "name": "1E7 merlansilber mica metallic",
+                            "id": "ed9c4de5-b6aa-465f-8976-794d4c5b8e6c",
+                            "rgb": "e3e3e3",
+                            "price": {
+                                "listWithDiscount": 490,
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "b78a022e-1dbb-43b9-a520-04e8712f32b0",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "9bcc3887-e74c-4cf1-8950-3726efb93fe3",
+                            "TotalPrice": 14940
+                        }
+                    }, {
+                        "gradeName": "x-pose",
+                        "carName": "Aygo 5-Türer 1,0 x-shift x-pose",
+                        "carId": "d5de7e67-e793-42da-b3e1-1d2cc7747282",
+                        "financeVisible": true,
+                        "price": {
+                            "listWithDiscount": 15490,
+                            "discounts": [],
+                            "spotlights": []
+                        },
+                        "tempPriceIn": 15490,
+                        "energy": {
+                            "value": "B",
+                            "7f73a2cd37934a93909e4853d8012734": {
+                                "name": "Verbrauch kombiniert",
+                                "unit": "l/100 km",
+                                "value": 4.2,
+                                "quick": true
+                            },
+                            "f9f0ef2c2b6445d79c28Bd0f68c7bb12": {
+                                "name": "Verbrauch, innerorts",
+                                "unit": "l/100 km",
+                                "value": 5
+                            },
+                            "c3a236607db247f0Baf188000d33dd57": {
+                                "name": "Verbrauch außerorts",
+                                "unit": "l/100 km",
+                                "value": 3.8
+                            },
+                            "4f154038A4d6403a8a767f1bd11439ed": {
+                                "name": "CO2-Emission, kombiniert",
+                                "unit": "g/km",
+                                "value": 97,
+                                "quick": true
+                            }
+                        },
+                        "colours": [{
+                            "code": "068",
+                            "name": "068 pianosaweiss",
+                            "id": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "rgb": "fafafa",
+                            "price": {
+                                "discounts": [],
+                                "spotlights": []
+                            }
+                        }],
+                        "config": {
+                            "Country": "DE",
+                            "Brand": "TOYOTA",
+                            "Language": "DE",
+                            "ModelID": "813b0db9-bca0-4893-9167-cc0c4f69cfc2",
+                            "CarID": "d5de7e67-e793-42da-b3e1-1d2cc7747282",
+                            "ExteriorColourID": "95fc8f22-feaf-498e-9f09-cffeb14f0e76",
+                            "UpholsteryID": "9bcc3887-e74c-4cf1-8950-3726efb93fe3",
+                            "TotalPrice": 15490
+                        }
+                    }]
+                }]
+            }]
+        }]
+    }],
+    "_date": "2017-09-12T06:32:52"
+}
