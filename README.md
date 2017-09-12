@@ -17,3 +17,6 @@ see "/static" folder.
 4. > express –c compass webapp
 5. > cd webapp && npm install
 6. > set DEBUG=webapp:* & npm start
+
+### Carconfig data url
+https://www.toyota.de/api/cardb/minicarconfig/ag
